@@ -37,4 +37,5 @@ function clear() {
   refs.imagesContainerEl.innerHTML = '';
 }
 
+
 export { renderMarkup, clear };
